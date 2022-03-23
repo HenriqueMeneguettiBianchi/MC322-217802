@@ -1,10 +1,8 @@
-#Nome
+# Aluno
 Henrique Meneguetti Bianchi
-#RA
+
+# RA
 217802
-#Curso
+
+# Curso
 Engenharia de Controle e Automação
-
-
-qualquer coisaa so pra testar
-
